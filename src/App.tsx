@@ -153,7 +153,7 @@ function App() {
             <button type="submit">Send</button>
           </form>
           <div className="feedback-message">
-          This simple user interface is meant for testing an LLM's ability to answer users' questions on an uploaded document. Chat history is automatically saved. Please send any feedback to thuan.nguyen208@gatech.edu and copy the URL.
+          This simple user interface is meant for testing an LLM's ability to answer users' questions on an uploaded document. Chat history is automatically saved. Please send any feedback to thuan dot nguyen208 at gatech dot edu and copy the URL.
           </div>
         </>
       )}
